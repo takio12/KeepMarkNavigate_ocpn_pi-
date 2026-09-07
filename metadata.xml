@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin>
+  <name>KeepMarkNavigate</name>
+  <version>0.1.0</version>
+  <summary>Navigate to here and keep destination as mark</summary>
+  <description>Creates a destination mark first, then builds a route to it so the final point remains after navigation.</description>
+  <author>takio12</author>
+  <api_version>121</api_version>
+</plugin>
